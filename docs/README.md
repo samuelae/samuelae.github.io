@@ -5,7 +5,7 @@ heroImage: /images/samuel-icon.png
 heroImageDark: /images/samuel-icon-dark-4.png
 
 heroText: Samuel Aeschbach
-tagline: Cognitive Networks of Memory Structures | Behavioral Data Science | Psychology PhD Student
+tagline: Cognitive Networks of Memory Structures | Behavioral Data Science | Psychology PhD
 actions:
   - text: Get in touch 🚀
     link: /contact.html
