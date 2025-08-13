@@ -8,11 +8,9 @@ contributors: false
 
 # Works
 
-## Preprints
-
-**Aeschbach, S.**, Mata, R., & Wulff, D. U. (2024). _Measuring individual semantic networks: A simulation study._ arXiv. [https://doi.org/10.48550/arXiv.2410.18326](https://doi.org/10.48550/arXiv.2410.18326)
-
 ## Peer reviewed work
+
+**Aeschbach, S.**, Mata, R., & Wulff, D. U. (2025). Measuring individual semantic networks: A simulation study. _PLOS One_, _20_(8), Article e0328712- [https://doi.org/10.1371/journal.pone.0328712](https://doi.org/10.1371/journal.pone.0328712)
 
 **Aeschbach, S.**, Mata, R., & Wulff, D. U. (2025). Mapping Mental Representations With Free Associations: A Tutorial Using the R Package associatoR. _Journal of Cognition_, _8_(1), Article 3. [https://doi.org/10.5334/joc.407](https://doi.org/10.5334/joc.407)
 
