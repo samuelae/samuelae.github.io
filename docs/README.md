@@ -19,6 +19,6 @@ features:
   - title: 👨🏾‍🏫 Teaching and Consulting
     details: Building relationships to foster a common understanding of goals and tools.
 
-footer: © 2025 Samuel Aeschbach 
+footer: © 2026 Samuel Aeschbach
 ---
 

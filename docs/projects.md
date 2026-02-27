@@ -22,7 +22,7 @@ Article in German newspaper Tagesspiegel about the Small World of Words study an
 [Read here](https://www.tagesspiegel.de/wissen/forscher-suchen-mitspieler-fur-experiment-wie-sind-worter-in-unserem-gedachtnis-organisiert-12075476.html)
 
 ## SDG Hackathon
-Co-Organized the SDG Hackathon - Visualizing Swiss Sustainability Research in November 2021 and built the website [the website](https://cdsbasel.github.io/sdghackathon2021/) for it. It was a lot of fun to set everyting up and very gratifying to see the many visualizations being uploaded in the last minutes before the deadline.
+Co-Organized the SDG Hackathon - Visualizing Swiss Sustainability Research in November 2021 and built [the website](https://cdsbasel.github.io/sdghackathon2021/) for it. It was a lot of fun to set everything up and very gratifying to see the many visualizations being uploaded in the last minutes before the deadline.
 
 ## NUMERAI
 Running a [prediction model](https://numer.ai/~descai) on the NUMERAI data science tournament. Thinking I will revise the model soon for a couple of years now.
