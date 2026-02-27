@@ -1,17 +1,19 @@
-const { defaultTheme } = require('@vuepress/theme-default');
-const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics');
+import { viteBundler } from '@vuepress/bundler-vite'
+import { defaultTheme } from '@vuepress/theme-default'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import { defineUserConfig } from 'vuepress'
 
-module.exports = {
+export default defineUserConfig({
     lang: 'en-US',
     title: 'Samuel Aeschbach',
     description: 'Personal website of Samuel Aeschbach.',
+    bundler: viteBundler(),
     plugins: [
         googleAnalyticsPlugin({
           id: 'G-9QJ89T4GYS',
         }),
-      ],
+    ],
     theme: defaultTheme({
-        // default theme config
         navbar: [
             {
                 text: 'Home',
@@ -24,7 +26,7 @@ module.exports = {
             {
                 text: 'Projects',
                 link: '/projects.html',
-            },            
+            },
             {
                 text: 'Works',
                 link: '/works.html',
@@ -35,6 +37,6 @@ module.exports = {
             },
         ],
         logo: '/images/samuel-icon.png',
-        logoDark: '/images/samuel-icon-dark-4.png'
+        logoDark: '/images/samuel-icon-dark-4.png',
     }),
-}
+})

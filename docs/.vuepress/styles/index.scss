@@ -1,9 +1,13 @@
 :root {
-    --c-brand: #1f77a3;
-    --c-brand-light: #2790c4;
+    --vp-c-accent: #1f77a3;
+    --vp-c-accent-bg: #1f77a3;
+    --vp-c-accent-hover: #2790c4;
 }
-html.dark {
+[data-theme='dark'] {
     // brand colors
-    --c-brand: #2aa2de;
-    --c-brand-light: #45c1ff;
+    --vp-c-accent: #2aa2de;
+    --vp-c-accent-bg: #2aa2de;
+    --vp-c-accent-hover: #45c1ff;
+    // match original dark background
+    --vp-c-bg: #22272e;
 }

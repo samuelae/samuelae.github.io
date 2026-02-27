@@ -1,17 +1,20 @@
 {
   "name": "samuelaeschbach.com",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "author": "Samuel Aeschbach <samuel.aeschbach@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.49"
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "@vuepress/plugin-google-analytics": "2.0.0-rc.123",
+    "@vuepress/theme-default": "2.0.0-rc.123",
+    "sass-embedded": "^1.97.3",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.26"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.49"
   }
 }
