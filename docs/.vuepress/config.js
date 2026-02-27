@@ -20,10 +20,6 @@ export default defineUserConfig({
                 link: '/',
             },
             {
-                text: 'Blog',
-                link: '/blog/',
-            },
-            {
                 text: 'Projects',
                 link: '/projects.html',
             },
