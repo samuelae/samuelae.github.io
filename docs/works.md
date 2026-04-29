@@ -8,6 +8,10 @@ contributors: false
 
 # Works
 
+## Preprints
+
+**Aeschbach, S.**, Mata, R., Lõo, K., Deyne, S. D., & Wulff, D. U. (2026). _The “Small World of Words” German Free-Association Norms._ arXiv. https://doi.org/10.48550/arXiv.2604.19620
+
 ## Peer reviewed work
 
 **Aeschbach, S.**, Mata, R., & Wulff, D. U. (2025). Measuring individual semantic networks: A simulation study. _PLOS One_, _20_(8), Article e0328712. [https://doi.org/10.1371/journal.pone.0328712](https://doi.org/10.1371/journal.pone.0328712)
