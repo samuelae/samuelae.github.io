@@ -10,7 +10,7 @@ contributors: false
 
 ## Preprints
 
-**Aeschbach, S.**, Mata, R., Lõo, K., Deyne, S. D., & Wulff, D. U. (2026). _The “Small World of Words” German Free-Association Norms._ arXiv. https://doi.org/10.48550/arXiv.2604.19620
+**Aeschbach, S.**, Mata, R., Lõo, K., Deyne, S. D., & Wulff, D. U. (2026). _The “Small World of Words” German Free-Association Norms._ arXiv. [https://doi.org/10.48550/arXiv.2604.19620](https://doi.org/10.48550/arXiv.2604.19620)
 
 ## Peer reviewed work
 
