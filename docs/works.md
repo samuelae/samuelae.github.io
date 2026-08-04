@@ -10,6 +10,8 @@ contributors: false
 
 ## Preprints
 
+Frings, N., Fenn, J., **Aeschbach, S.**, Mata, R., & Hahnel, U. J. J. (2026). _What voters think and feel about a climate law: cognitive-affective mental models during a Swiss national referendum._ SocArXiv. [https://doi.org/10.31235/osf.io/az345_v1](https://doi.org/10.31235/osf.io/az345_v1)
+
 **Aeschbach, S.**, Mata, R., Lõo, K., Deyne, S. D., & Wulff, D. U. (2026). _The “Small World of Words” German Free-Association Norms._ arXiv. [https://doi.org/10.48550/arXiv.2604.19620](https://doi.org/10.48550/arXiv.2604.19620)
 
 ## Peer reviewed work
